@@ -1,4 +1,4 @@
-## Repro for Biome issue
+## Repro for Biome issue https://github.com/biomejs/biome/issues/4105
 
 Settings for `useFilenamingConvention`:
 
